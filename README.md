@@ -1,8 +1,7 @@
 # CourseGrader---C#
 Student Assignment and Grade Management.
 ## CourseGrader is a powerful WPF-based desktop application designed to streamline the management of student assignments and grades. This application enables educators to efficiently import, view, edit, and save student grades for various courses. The application reads data from Excel files and saves all course-related information in JSON format for persistent storage, ensuring that the original Excel files remain unaltered.
-![image](https://github.com/user-attachments/assets/0cb1da12-89b3-46c6-9982-8fff2786b1dd)
-![image](https://github.com/user-attachments/assets/263cb703-5b31-40fe-af58-e6fa6a2565ca)
+![image](https://github.com/user-attachments/assets/291a9d72-1c59-41ac-97f0-b3ab94d3089f)
 
 
 ## Key Features
